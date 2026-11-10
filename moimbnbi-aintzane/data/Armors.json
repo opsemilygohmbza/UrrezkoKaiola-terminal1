@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"atypeId":1,"description":"A simple shield.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Shield","note":"","params":[0,0,0,5,0,0,0,0],"price":0},
-{"id":2,"atypeId":1,"description":"A simple leather helmet.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Leather Helmet","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
-{"id":3,"atypeId":1,"description":"A simple leather tunic.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Leather Tunic","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
-{"id":4,"atypeId":1,"description":"A ring that increases Luck.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring of Luck","note":"","params":[0,0,0,0,0,0,0,20],"price":300}
-]
